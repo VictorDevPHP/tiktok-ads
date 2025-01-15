@@ -13,9 +13,9 @@ class ComposerStaticInitdd30886a906568621a8a8fead66574f8
     );
 
     public static $prefixLengthsPsr4 = array (
-        's' => 
+        'T' => 
         array (
-            'src\\' => 4,
+            'TikTokAds\\' => 10,
         ),
         'P' => 
         array (
@@ -31,9 +31,9 @@ class ComposerStaticInitdd30886a906568621a8a8fead66574f8
     );
 
     public static $prefixDirsPsr4 = array (
-        'src\\' => 
+        'TikTokAds\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/tiktok-ads/src',
         ),
         'Psr\\Http\\Message\\' => 
         array (

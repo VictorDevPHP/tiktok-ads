@@ -17,7 +17,7 @@
     },
     "autoload": {
       "psr-4": {
-        "TikTokAds\\": "vendor/victordevphp/tiktok-ads/src/"
+        "TikTokAds\\": "tiktok-ads/src/"
       }
     },
     "minimum-stability": "stable",
