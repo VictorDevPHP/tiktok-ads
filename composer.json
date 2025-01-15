@@ -1,0 +1,26 @@
+{
+    "name": "victordevphp/tiktok-ads",
+    "description": "Biblioteca PHP para integração com o TikTok Ads API",
+    "keywords": ["tiktok", "ads", "api", "integration"],
+    "homepage": "https://github.com/VictorDevPHP/tiktok-ads", 
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Victor Sampaio",
+        "email": "victorsomulex@gmail.com"
+      }
+    ],
+    "require": {
+      "php": "^8.2",
+      "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+      "psr-4": {
+        "src\\": "src/"
+      }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+  }
+  
