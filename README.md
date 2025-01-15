@@ -10,7 +10,7 @@ Este pacote PHP oferece uma interface simples para interagir com a **TikTok Ads 
 Para instalar este pacote, use o Composer. Execute o seguinte comando em seu terminal dentro do diretório do seu projeto:
 
 ```bash
-composer require victordevphp/tiktok-ads 
+composer require victordevphp/tiktok-ads:dev-main
 ```
 
 ## Requisitos
