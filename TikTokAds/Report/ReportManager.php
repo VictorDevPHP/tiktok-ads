@@ -1,8 +1,8 @@
 <?php
 
-namespace src\Report;
+namespace TikTokAds\Report;
 
-use src\Client;
+use TikTokAds\Client;
 
 class ReportManager extends Client
 {

@@ -33,7 +33,7 @@ class ComposerStaticInitdd30886a906568621a8a8fead66574f8
     public static $prefixDirsPsr4 = array (
         'TikTokAds\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/TikTokAds',
         ),
         'Psr\\Http\\Message\\' => 
         array (

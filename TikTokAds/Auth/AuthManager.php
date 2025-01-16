@@ -1,8 +1,8 @@
 <?php
 
-namespace src\Auth;
+namespace TikTokAds\Auth;
 
-use src\Client;
+use TikTokAds\Client;
 
 class AuthManager extends Client
 {
