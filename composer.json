@@ -17,7 +17,7 @@
     },
     "autoload": {
       "psr-4": {
-        "TikTokAds\\": "tiktok-ads/src/"
+        "TikTokAds\\": "src/"
       }
     },
     "minimum-stability": "stable",
